@@ -1,0 +1,6 @@
+{
+  "name": "IMPART - Regulatory Intelligence Platform",
+  "description": "Track and analyse regulatory impact for proposed financial changes across global jurisdictions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
